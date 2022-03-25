@@ -6,7 +6,7 @@ Sie werden gebeten, die Anzahl der Buchstaben oder Zeichen in den unter diesem P
 Schreiben Sie ein Python-Programm, das;
 nimmt einen Satz vom Benutzer,
 zählt die Anzahl jedes Buchstabens/Zeichens des Satzes,
-sammelt die Buchstaben/Zeichen als Schlüssel und die gezählten Zahlen als Wert in einem Wörterbuch .
+sammelt die Buchstaben/Zeichen als Schlüssel und die gezählten Zahlen als Wert in einem Wörterbuch ."""
 
 satz = input("Bitte geben Sie einen Satz ein:  ")
 mein_dict = {}
